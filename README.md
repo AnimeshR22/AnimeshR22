@@ -2,7 +2,7 @@
  An Aspiring Data Scientist
 
 🌍 I'm based in Chennai, India
-✉️️ You can contact me at ar5389@srmist.edu.in
+✉️️ You can contact me at animeshraj57480@gmail.com
 🧠 I'm learning Machine Learning, Python, Matlab and Data Structures and Algorithms
 🤝 I'm open to collaborating on projects related to python
 ⚡ Don't limit yourself to the skies when there is a whole galaxy out there.
