@@ -1,26 +1,43 @@
-# 💫About Me :
- An Aspiring Data Scientist
+<h2 align="left">Hi there! I'm Animesh Raj 👋</h2>
 
-🌍 I'm based in Chennai, India
-✉️️ You can contact me at animeshraj57480@gmail.com
-🧠 I'm learning Machine Learning, Python, Matlab and Data Structures and Algorithms
-🤝 I'm open to collaborating on projects related to python
-⚡ Don't limit yourself to the skies when there is a whole galaxy out there.
-
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/animesh-raj-631646226) 
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=AnimeshR22&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnimeshR22&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshR22&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">
+  An Aspiring Data Scientist from Chennai, India.<br>
+  I am Passionate about ML, Data Engineering, and scalable backend systems.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnimeshR22&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="24" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="24" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="24" alt="AWS" style="background-color: transparent;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="24" alt="Flask" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+<p align="left">
+  <a href="mailto:animeshraj57480@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/animesh-raj-631646226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnimeshR22&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&layout=compact"" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshR22&layout=compact&hide_border=true&theme=tokyonight" height="150" />
+</p>
